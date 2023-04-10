@@ -6,6 +6,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Abdelhadi</h1>
 <h3 align="center">I'm Full Stack Web & Mobile Developer & Graphic Designer</h3>
 <hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadabdelhaddi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadabdelhaddi" /> </p>
 
 
 <h4 align="left">⭐ My Projects :</h4>
