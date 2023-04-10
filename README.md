@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# About-ME
-
 ![image](https://user-images.githubusercontent.com/127291163/230748817-58372678-a2a3-4b1a-96d1-14259bc0b4b1.png)
 <h1 style="algin-items:center;">Hi 👋, I'm Ahmad Abdelhadi </h1>
 
