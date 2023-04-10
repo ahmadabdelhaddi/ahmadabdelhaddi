@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ahmad Abdelhadi</h1>
-<h3 align="center">I'm Full Stack Web & Mobile Developer</h3>
+<h3 align="center">I'm Full Stack Web & Mobile Developer & Graphic Designer</h3>
 <hr>
 
 
@@ -16,11 +16,13 @@
 <hr>
 <h4 align="left">⭐ My technical skills:</h4>
 ✅ UI/UX <br>
-✅ PSD to HTML <br>
 ✅ HTML5 <br>
 ✅ CSS <br> 
 ✅ JavaScript <br>
-✅ Bootstrap <br>
+✅ React <br>
+✅ React Native <br>
+✅ Mongo DB<br>
+✅ Sql Light <br>
 ✅ Git <br>
 ✅ Responsive to all displays <br>
  <br>
@@ -39,7 +41,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmadabdelhaddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadabdelhaddi" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmad.bassam.1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmad.bassam.1999" height="30" width="40" /></a>
 <a href="https://www.behance.net/ahmadbassamzaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahmadbassamzaki" height="30" width="40" /></a>
 </p>
 
