@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ahmadabdelhaddi/ahmadabdelhaddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +21,14 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
+
+<h1 align="center">Hi 👋, I'm Ahmad Abdelhadi</h1>
+<h3 align="center">I'm Full Stack Web & Mobile Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadabdelhaddi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadabdelhaddi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadabdelhaddi" alt="ahmadabdelhaddi" /></a> </p>
+
 ⭐ My technical skills:
 
 ✅ HTML5 <br>
@@ -33,16 +40,8 @@ Here are some ideas to get you started:
 ✅ Git <br>
 ✅ Responsive to all displays <br>
  <br>
-📫 How to reach me Ahmadabdelhaddi@gmail.com
 
 
-
-<h1 align="center">Hi 👋, I'm Ahmad Abdelhadi</h1>
-<h3 align="center">I'm Full Stack Web & Mobile Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadabdelhaddi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadabdelhaddi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadabdelhaddi" alt="ahmadabdelhaddi" /></a> </p>
 
 - 🔭 I’m currently training on **Orange Coding Academy**
 
