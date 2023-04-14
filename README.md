@@ -16,7 +16,8 @@
 
 <hr>
 <h4 align="left">⭐ My technical skills:</h4>
-✅ UI/UX <br>
+✅ Graphic Design <br>
+✅ UI/UX <br
 ✅ HTML5 <br>
 ✅ CSS <br> 
 ✅ JavaScript <br>
